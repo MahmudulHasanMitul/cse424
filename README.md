@@ -1,10 +1,15 @@
 Link to unlisted youtube video:
+
 https://www.youtube.com/watch?v=kLijYrE58MQ
 
 Two public link to the Concept Map (anyone on the internet can view without login):
+
 PDF: 
+
 https://drive.google.com/file/d/13wYkAgJ3VTH3lmufK6C87fFw0xNY8aTZ/view?usp=sharing
+
 Native/original format: 
+
 https://app.diagrams.net/?libs=general%3Bbasic%3Barrows&fbclid=IwAR1962ZPtqBWRJ62lnEfUOeyA33Mf73mGwmhHJmvRVMRQ6en410VU98V98s#G1PyjKiObmDxSSiuT2Esz5dbLqBGT77bgl
 
 Name, Author, Edition, year and publisher of the Book:
