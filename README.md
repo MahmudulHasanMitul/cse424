@@ -3,7 +3,6 @@ https://youtu.be/htTjF-QvTQE
 
 Conference submitted paper / paper submission / login Link:
 https://edas.info/
-https://github.com/Amitdutta121/CSE713/blob/master/Submission4_Full_Paper/paper.pdf
 
 Paper title:
 Crop Yield Prediction Using Machine Learning And Deep Learning
@@ -14,7 +13,7 @@ https://docs.google.com/presentation/d/1doPCG2fgwjzIEfhfk-0URgXBXE57rEn1pok0nsaw
 Paper submission date (to workshop/conference):
 
 Paper submission ID: (received) from conference/workshop
-1570872804
+
 
 Conference Name:
 
